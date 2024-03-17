@@ -4,8 +4,14 @@
     "editor.background": "#151515",
     "editor.foreground": "#eeffff",
 
-    "activityBarBadge.background": "#151515",
+    // activity bar
+    "activityBarBadge.background": "#ffb300",
+    "activityBarBadge.foreground": "#090909",
+    "profileBadge.background": "#00ff00",
     "activityBar.background": "#090909",
+    "activityBar.foreground": "#b87922",
+    "activityBar.dropBorder": "#5e4c3b",
+    "activityBar.inactiveForeground": "#5e4c3b",
 
     "sideBarTitle.foreground": "#f2f3f3",
     "sideBar.background": "#111111",
@@ -13,8 +19,7 @@
     "menubar.selectionBackground": "#342e2b",
     "menubar.selectionForeground": "#e0dede",
 
-    "commandCenter.background": "#151515",
-    "menu.foreground": "#ff0000"
+    "commandCenter.background": "#151515"
   },
   "tokenColors": [
     {

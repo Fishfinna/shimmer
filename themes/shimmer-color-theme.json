@@ -16,7 +16,9 @@
     "sideBarTitle.foreground": "#f2f3f3",
     "sideBar.background": "#111111",
 
-    "menubar.selectionBackground": "#342e2b",
+    "titleBar.inactiveBackground": "#090909",
+    "titleBar.activeBackground": "#111111",
+
     "menubar.selectionForeground": "#e0dede",
 
     "commandCenter.background": "#151515"

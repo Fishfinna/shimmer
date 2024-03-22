@@ -7,19 +7,24 @@
     // activity bar
     "activityBarBadge.background": "#ffb300",
     "activityBarBadge.foreground": "#090909",
-    "profileBadge.background": "#00ff00",
     "activityBar.background": "#090909",
-    "activityBar.foreground": "#b87922",
+    "activityBar.foreground": "#db8e21",
     "activityBar.dropBorder": "#5e4c3b",
     "activityBar.inactiveForeground": "#5e4c3b",
 
+    // side bar
     "sideBarTitle.foreground": "#f2f3f3",
     "sideBar.background": "#111111",
 
-    "titleBar.inactiveBackground": "#090909",
-    "titleBar.activeBackground": "#111111",
+    // title bar
+    "titleBar.inactiveBackground": "#111111",
+    "titleBar.activeBackground": "#090909",
 
-    "menubar.selectionForeground": "#e0dede",
+    // menu bar
+    "menubar.selectionForeground": "#f4f2ec",
+    "menu.background": "#191717",
+    "menu.selectionBackground": "#252222",
+    "menu.foreground": "#e0dede",
 
     "commandCenter.background": "#151515"
   },
@@ -28,15 +33,14 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#a39898"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#feffee"
       }
     },
     {
@@ -131,7 +135,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#d796e8"
       }
     },
     {

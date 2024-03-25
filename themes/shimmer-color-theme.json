@@ -26,7 +26,9 @@
     "menu.selectionBackground": "#252222",
     "menu.foreground": "#e0dede",
 
-    "commandCenter.background": "#151515"
+    // commandcenter
+    "commandCenter.background": "#151515",
+    "commandCenter.activeBackground": "#090909"
   },
   "tokenColors": [
     {
@@ -61,7 +63,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#ddbce0"
       }
     },
     {
@@ -105,7 +107,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ffd900"
       }
     },
     {
@@ -205,7 +207,6 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#FF5370"
       }
     },
@@ -213,7 +214,6 @@
       "name": "entity.name.method.js",
       "scope": ["entity.name.method.js"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#82AAFF"
       }
     },

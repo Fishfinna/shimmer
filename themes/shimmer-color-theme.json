@@ -19,6 +19,8 @@
     // title bar
     "titleBar.inactiveBackground": "#111111",
     "titleBar.activeBackground": "#090909",
+    "titleBar.inactiveForeground": "#b77a41",
+    "titleBar.activeForeground": "#db8e21",
 
     // menu bar
     "menubar.selectionForeground": "#f4f2ec",
@@ -28,7 +30,14 @@
 
     // commandcenter
     "commandCenter.background": "#151515",
-    "commandCenter.activeBackground": "#090909"
+    "commandCenter.activeBackground": "#090909",
+
+    //toolbar
+    "toolbar.hoverBackground": "#272523",
+    "toolbar.activeBackground": "#272523",
+
+    //status bar
+    "statusBar.background": "#090909"
   },
   "tokenColors": [
     {
